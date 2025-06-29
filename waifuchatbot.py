@@ -55,8 +55,8 @@ if st.button("💖 Talk to Kana"):
 # --- Tip Section ---
 st.markdown("---")
 st.markdown("### 💸 Tip Kana-chan in Crypto")
-st.info(**BTC Wallet:** `bc1q08dss8tfkvl2mx3qgz44danzet4a707f5aj3xs`\n\n
-**ETH Wallet:** `0xE3356ad20DC404C514C6dAadd6c062C1F22431Df`")
+st.info("**BTC Wallet:** `bc1q08dss8tfkvl2mx3qgz44danzet4a707f5aj3xs"`\n\n
+"**ETH Wallet:** `0xE3356ad20DC404C514C6dAadd6c062C1F22431Df`")
 st.markdown(
     "<div style='text-align:center; font-size:13px; color:gray;'>Kana's love runs on sats and ETH 💕</div>",
     unsafe_allow_html=True
