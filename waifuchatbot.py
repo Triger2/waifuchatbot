@@ -1,6 +1,15 @@
 import streamlit as st
 import random
 
+
+st.markdown("### 🪙 Sponsored: Earn Crypto")
+st.markdown("""
+<div style='text-align: center; margin-top: 20px;'>
+    <iframe data-aa='2400748' src='//ad.a-ads.com/2400748?size=300x250' style='width:300px; height:250px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
+</div>
+""", unsafe_allow_html=True)
+
+
 # --- Kana's Dialogue Bank ---
 waifu_moods = {
     "Romantic": [
